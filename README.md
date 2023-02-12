@@ -9,11 +9,11 @@
   - 基础设计技能（indesign/ai）
   - 如何照顾自己
 
-- 🔗运转中
-  - portfolio(制作中)
-  - 碎碎念闲谈blog > [每天都睡不着](https://ktchar.blog.fc2blog.us/)
-  - 艺术评论与文化 / 相关研究存档展示 > [eremites](https://ethereal-paint-b9e.notion.site/erem1tes-41a82cba35364456966f6d9841d7f2ef)
-  - 东亚瘾的治理 / fa.oc.썰 > [귤](https://ethereal-paint-b9e.notion.site/5f990b61f7e74f6fb4a91dad2cbd2c91)
+- 🔗运转中 
+  - Portfolio /[charyang](https://charyang.cargo.site/)
+  - 个人blog > [每天都睡不着](https://ktchar.blog.fc2blog.us/)
+  - 学业存档 > [eremites](https://ethereal-paint-b9e.notion.site/erem1tes-41a82cba35364456966f6d9841d7f2ef)
+  - 同人存档 > [문어](https://ethereal-paint-b9e.notion.site/5f990b61f7e74f6fb4a91dad2cbd2c91)
 
 - 联络
   - charyang113@gmail.com
