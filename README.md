@@ -11,7 +11,7 @@
   - 如何照顾自己
 
 - 联络
-  - charyang113@gmail.com
+  - ktchar@Outlook.com
 
 
 <!---
