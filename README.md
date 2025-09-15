@@ -4,8 +4,8 @@
 ✉️ 联络>ktchar@yahoo.com
 
 ## 其他链接
-> 韩语博客https://www.postype.com/profile/@fxm5o6
-> 日语博客https://note.com/ktchar
+- 韩语博客https://www.postype.com/profile/@fxm5o6
+- 日语博客https://note.com/ktchar
 
 - 25.09.15
   再启动
